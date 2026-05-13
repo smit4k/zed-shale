@@ -1,0 +1,7 @@
+id = "shale"
+name = "Shale"
+version = "0.1.0"
+schema_version = 1
+authors = ["Smit Patil <smit@smit.codes>"]
+description = "Shale colorscheme for Zed"
+repository = "https://github.com/smit4k/zed-shale"
